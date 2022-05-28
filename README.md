@@ -1,2 +1,2 @@
-# tic-tac-toe
-Крестики-нолики
+# guess-the-number
+Угадай число
